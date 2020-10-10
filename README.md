@@ -7,6 +7,8 @@ This EFI only for G7-7590
 
 Base On [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh/)
 
+中文安裝參考來源：[教你如何给灵越7590黑苹果抄作业](https://zhuanlan.zhihu.com/p/117680791)
+
 ## System configuration
 
 | Model     | MacBookPro16,1      | Version        | BigSur 11 Beta      |
