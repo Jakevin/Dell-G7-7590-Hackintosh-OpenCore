@@ -15,7 +15,7 @@ Base On [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/D
 | :-------- | :------------------ | :------------- | :------------------ |
 | Processor | Intel Core i7-8750H | Graphics       | UHD Graphics 630    |
 | Memory    | 2667MHz DDR4 2x16GB | OS Disk        | TOPMORE TPCIE500-0G |
-| Audio     | Realtek ALC263      | WiFi           | TP-Link T3U         |
+| Audio     | Realtek ALC236      | WiFi           | TP-Link T3U         |
 | Display   | 1080P               |                |                     |
 
 #### Not Working
