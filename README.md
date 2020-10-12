@@ -37,6 +37,20 @@ Base On [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/D
 
 - Microphone is Working Well/內建麥克風正常
 
+#### Sleep Wake
+
+```shell
+sudo pmset -a hibernatemode 0
+sudo pmset -a autopoweroff 0
+sudo pmset -a standby 0
+sudo pmset -a proximitywake 0
+sudo pmset -b tcpkeepalive 0 (optional)
+```
+
+> `-b` - Battery `-c` - AC Power `-a` - Both
+
+Please uncheck all options (except `Prevent computer from sleeping...`, which is optional) in the `Energy Saver` panel.
+
 
 ## Credits
 
