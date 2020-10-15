@@ -24,6 +24,11 @@ Base On [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/D
     - Discrete GPU (Disabled)/獨立顯卡
     - HDMI port(Type-C is Working well)
     - Intel Wifi/Bluetooth
+    - Fn + 11~12 to Control Background Light（But Fn+B & Fn+B is working）
+
+## Control Fan
+
+iStat can't Control Fan. Using [macs-fan-control](https://crystalidea.com/macs-fan-control) is working
 
 ## Different then other
 
